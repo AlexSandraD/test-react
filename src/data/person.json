@@ -1,0 +1,141 @@
+ { 
+     "person": [
+        {
+            "id": 0,
+            "avatar": "https://thumbs.dreamstime.com/b/portrait-normal-man-smiling-over-grey-background-young-face-high-detailed-30820412.jpg",
+            "firstName": "John",
+            "lastName": "Doe",
+            "country": "Ukraine",
+            "city": "Lviv",   
+            "company": "SunScript",
+            "position": "CEO",
+            "friend": false,
+            "social": {
+                "facebook": "https://www.facebook.com/",
+                "twitter": "https://www.twitter.com/",
+                "instagram": "https://www.instagram.com/",
+                "linkedin": "https://www.linkedin.com/",
+                "skype": "https://www.skype.com/"
+            }
+        }, {
+            "id": 1, 
+            "avatar": "https://www.xing.com/image/c_0_1_a40521df4_24427273_1/carolin-engel-foto.1024x1024.jpg",
+            "firstName": "Caroline", 
+            "lastName": "Dowson",
+            "country": "Ukraine", 
+            "city": "Odessa",
+            "company": "PerfectCode", 
+            "position": "Back and dev",
+            "friend": true,
+            "favourite": false,
+            "social": {
+                "twitter": "https://www.twitter.com/",
+                "instagram": "https://www.instagram.com/",
+                "linkedin": "https://www.linkedin.com/"
+            }
+        }, {
+            "id": 2, 
+            "avatar": "https://waterlifeaquarium.com.au/wp-content/uploads/2017/06/1_widget_john-doe.jpg",
+            "firstName": "Samuel", 
+            "lastName": "Stanford",
+            "country": "Ukraine", 
+            "city": "Lviv",
+            "company": "HandyCode", 
+            "position": "COO",
+            "friend": true,
+            "favourite": true,
+            "social": {
+                "facebook": "https://www.facebook.com/",
+                "twitter": "https://www.twitter.com/",
+                "instagram": "https://www.instagram.com/",
+                "linkedin": "https://www.linkedin.com/",
+                "skype": "https://www.skype.com/"
+            }
+        }, {
+            "id": 3,
+            "avatar": "https://pbs.twimg.com/profile_images/743087049192919040/Wmug__uf.jpg",
+            "firstName": "Stan", 
+            "lastName": "Smith",
+            "country": "Ukraine", 
+            "city": "Kiev",
+            "company": "Logical Solution", 
+            "position": "CEO",
+            "friend": false,
+            "social": {
+                "facebook": "https://www.facebook.com/",
+                "twitter": "https://www.twitter.com/",
+                "instagram": "https://www.instagram.com/",
+                "linkedin": "https://www.linkedin.com/",
+                "skype": "https://www.skype.com/"
+            }
+        }, {
+            "id": 4,
+            "avatar": "http://www.matchboxhr.com/wp-content/uploads/2014/08/team2.jpg",
+            "firstName": "John",
+            "lastName": "Doe",
+            "country": "Ukraine",
+            "city": "Kiev",
+            "company": "SunScript",
+            "position": "CEO",
+            "friend": false,
+            "social": {
+                "facebook": "https://www.facebook.com/",
+                "twitter": "https://www.twitter.com/",
+                "instagram": "https://www.instagram.com/",
+                "linkedin": "https://www.linkedin.com/",
+                "skype": "https://www.skype.com/"
+            }
+        }, {
+            "id": 5, 
+            "avatar": "https://www.xing.com/image/c_0_1_a40521df4_24427273_1/carolin-engel-foto.1024x1024.jpg",
+            "firstName": "Caroline", 
+            "lastName": "Dowson",
+            "country": "Ukraine", 
+            "city": "Odessa",
+            "company": "PerfectCode", 
+            "position": "Back and dev",
+            "friend": true,
+            "favourite": false,
+            "social": {
+                "twitter": "https://www.twitter.com/",
+                "instagram": "https://www.instagram.com/",
+                "linkedin": "https://www.linkedin.com/"
+            }
+        }, {
+            "id": 6, 
+            "avatar": "https://waterlifeaquarium.com.au/wp-content/uploads/2017/06/1_widget_john-doe.jpg",
+            "firstName": "Samuel", 
+            "lastName": "Stanford",
+            "country": "Ukraine", 
+            "city": "Lviv",
+            "company": "HandyCode", 
+            "position": "COO",
+            "friend": true,
+            "favourite": true,
+            "social": {
+                "facebook": "https://www.facebook.com/",
+                "twitter": "https://www.twitter.com/",
+                "instagram": "https://www.instagram.com/",
+                "linkedin": "https://www.linkedin.com/",
+                "skype": "https://www.skype.com/"
+            }
+        }, {
+            "id": 7,
+            "avatar": "https://pbs.twimg.com/profile_images/743087049192919040/Wmug__uf.jpg",
+            "firstName": "Stan", 
+            "lastName": "Smith",
+            "country": "Ukraine", 
+            "city": "Kiev",
+            "company": "Logical Solution", 
+            "position": "CEO",
+            "friend": false,
+            "social": {
+                "facebook": "https://www.facebook.com/",
+                "twitter": "https://www.twitter.com/",
+                "instagram": "https://www.instagram.com/",
+                "linkedin": "https://www.linkedin.com/",
+                "skype": "https://www.skype.com/"
+            }
+        }
+    ]
+} 
